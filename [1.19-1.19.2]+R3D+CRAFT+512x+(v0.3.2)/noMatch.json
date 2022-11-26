@@ -1,0 +1,434 @@
+{
+    "filepath-1-converted-legal.txt": {
+        "input filename": "legal.txt",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-social.txt": {
+        "input filename": "social.txt",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-block102.properties": {
+        "input filename": "block102.properties",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\mcpatcher\\ctm\\glass\\frame",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-block20.properties": {
+        "input filename": "block20.properties",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\mcpatcher\\ctm\\glass\\frame",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-block20a.properties": {
+        "input filename": "block20a.properties",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\mcpatcher\\ctm\\glass\\frame",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-2-converted-block20a.properties": {
+        "input filename": "block20a.properties",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\mcpatcher\\ctm\\glass\\shine",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-block102a.properties": {
+        "input filename": "block102a.properties",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\mcpatcher\\ctm\\glass\\shine",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-credits.txt": {
+        "input filename": "credits.txt",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\texts",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-bed_feet_end.png": {
+        "input filename": "bed_feet_end.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-bed_feet_side.png": {
+        "input filename": "bed_feet_side.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-bed_feet_top.png": {
+        "input filename": "bed_feet_top.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-bed_head_end.png": {
+        "input filename": "bed_head_end.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-bed_head_side.png": {
+        "input filename": "bed_head_side.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-bed_head_top.png": {
+        "input filename": "bed_head_top.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-bed_side.png": {
+        "input filename": "bed_side.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-command_block.png": {
+        "input filename": "command_block.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-double_plant_bottom.png": {
+        "input filename": "double_plant_bottom.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-double_plant_sunflower.png": {
+        "input filename": "double_plant_sunflower.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-flower_paeonia.png": {
+        "input filename": "flower_paeonia.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-grass_path_side.png": {
+        "input filename": "grass_path_side.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-grass_path_top.png": {
+        "input filename": "grass_path_top.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-leaves_acacia_opaque.png": {
+        "input filename": "leaves_acacia_opaque.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-leaves_big_oak_opaque.png": {
+        "input filename": "leaves_big_oak_opaque.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-leaves_birch_opaque.png": {
+        "input filename": "leaves_birch_opaque.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-leaves_oak_opaque.png": {
+        "input filename": "leaves_oak_opaque.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-leaves_spruce_opaque.png": {
+        "input filename": "leaves_spruce_opaque.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-redstone_dust_overlay.png": {
+        "input filename": "redstone_dust_overlay.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-red_nether_brick.png": {
+        "input filename": "red_nether_brick.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-red_sandstone_top_.png": {
+        "input filename": "red_sandstone_top_.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-stonebrick_carved.png": {
+        "input filename": "stonebrick_carved.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-stone_slab_top.png": {
+        "input filename": "stone_slab_top.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\blocks",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-end_portal.png": {
+        "input filename": "end_portal.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\entity",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-sign.png": {
+        "input filename": "sign.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\entity",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-2-converted-sign.png": {
+        "input filename": "sign.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\items",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-border-01.png": {
+        "input filename": "border-01.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\entity\\banner",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-boat_darkoak.png": {
+        "input filename": "boat_darkoak.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\entity\\boat",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-normal_double.png": {
+        "input filename": "normal_double.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\entity\\chest",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-trapped_double.png": {
+        "input filename": "trapped_double.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\entity\\chest",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-mooshroom.png": {
+        "input filename": "mooshroom.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\entity\\cow",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-ascii.txt": {
+        "input filename": "ascii.txt",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\font",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-minescreeper.png": {
+        "input filename": "minescreeper.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\gui",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-achievement_background.png": {
+        "input filename": "achievement_background.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\gui\\achievement",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-banner_overlay.png": {
+        "input filename": "banner_overlay.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\items",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-bed.png": {
+        "input filename": "bed.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\items",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-boat.png": {
+        "input filename": "boat.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\items",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-redstone_dust.png": {
+        "input filename": "redstone_dust.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\items",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-slimeball.png": {
+        "input filename": "slimeball.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\items",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-shadow.png": {
+        "input filename": "shadow.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\misc",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-shadow.png.mcmeta": {
+        "input filename": "shadow.png.mcmeta",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\misc",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-vignette.png": {
+        "input filename": "vignette.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\misc",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-vignette.png.mcmeta": {
+        "input filename": "vignette.png.mcmeta",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\misc",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-paintings_kristoffer_zetterstrand.png": {
+        "input filename": "paintings_kristoffer_zetterstrand.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\painting",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-paintings_kristoffer_zetterstrand_copyright.txt": {
+        "input filename": "paintings_kristoffer_zetterstrand_copyright.txt",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\painting",
+        "reference filepath": "UNKNOWN"
+    },
+    "filepath-1-converted-particles.png": {
+        "input filename": "particles.png",
+        "input mcmeta filename": "UNKNOWN",
+        "reference mcmeta filename": "UNKNOWN",
+        "reference filename": "UNKNOWN",
+        "input filepath": "\\assets\\minecraft\\textures\\particle",
+        "reference filepath": "UNKNOWN"
+    }
+}
